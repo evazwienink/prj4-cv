@@ -13,6 +13,11 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+.customheader5 {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif' monospace;
+	color: #00004B;
+}
+
 .resume-header {
     background-color: #F3E7D8;
 }
