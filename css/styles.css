@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #FFD8FA;
+    background-color: #FFE8FC;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #CDE9FF;
+	background-color: #FCD9F9;
 }
 
 /* Styles for lists in the document */
